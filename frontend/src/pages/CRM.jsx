@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const API_URL = "http://127.0.0.1:8000/api/leads/";
+const API_URL = "https://future-fs-02-zupu.onrender.com/api/leads/";
 
 function CRM() {
   const [leads, setLeads] = useState([]);
