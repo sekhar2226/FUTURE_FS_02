@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f7fa;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+}
+html {
+  scroll-behavior: smooth;
+}
